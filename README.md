@@ -68,10 +68,6 @@
   
 ![Profile views](https://gpvc.arturio.dev/mrwardan)
 
-
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwardan&theme=chartreuse-dark"/> 
-</p>  
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
