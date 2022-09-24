@@ -17,7 +17,7 @@
 - 📫 How to reach me **mras@outlook.sa**
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on mobile applications & backend software engineering projects
-<a href="https://developer.mozilla.org"> <br> <br> Digital Website </a>
+<a href="https://statuesque-paprenjak-3b85c4.netlify.app/"> <br> <br> Digital Website </a>
 
 <br>
 
