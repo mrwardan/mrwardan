@@ -9,7 +9,7 @@
 <br>
 <img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="Coding" width="400">
 
-<p align="left"> <a href="https://twitter.com/@mo0o0hmmeed" target="blank"><img src="https://img.shields.io/twitter/follow/@mo0o0hmmeed?logo=twitter&style=for-the-badge" alt="@mo0o0hmmeed" /></a> </p>
+
 
 
 - 🔭 I’m currently working on [Bluevinegar](https://github.com/bluevinegar/)
@@ -17,6 +17,8 @@
 - 📫 How to reach me **mras@outlook.sa**
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on mobile applications & backend software engineering projects
+<a href="https://developer.mozilla.org"> <br> <br> Digital Website </a>
+
 <br>
 
 
